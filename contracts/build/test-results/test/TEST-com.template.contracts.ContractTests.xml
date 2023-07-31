@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.template.contracts.ContractTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-29T15:07:56" hostname="DESKTOP-V9G6ML8" time="0.001">
+  <properties/>
+  <testcase name="dummyTest" classname="com.template.contracts.ContractTests" time="0.001"/>
+  <system-out><![CDATA[?[37m[INFO] 20:37:39,516 [Test worker] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/D:/cordapp-template-java-release-V4/cordapp-template-java-release-V4/contracts/build/generated-custom-cordapps/20230729-150735.019/custom-cordapp_1_5_5202be61-5828-4507-83ed-f1948e5fc317.jar, rootPackageName=null)
+?[m?[37m[INFO] 20:37:39,782 [Test worker] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/D:/cordapp-template-java-release-V4/cordapp-template-java-release-V4/contracts/build/generated-custom-cordapps/20230729-150735.019/custom-cordapp_1_5_5202be61-5828-4507-83ed-f1948e5fc317.jar
+?[m?[37m[INFO] 20:37:40,197 [Test worker] ClassloaderUtils. - Contracts loading for 'C:\Users\PC\AppData\Local\Temp\attachment4430231924503949165.jar' took 129 msec
+?[m]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
